@@ -1,4 +1,4 @@
-# Resoluci-n-Maquina-Transferencia
+# Resolucion-Maquina-Transferencia
 En este repositorio hago un breve writeup de la maquina transferencia
 
 # Enumeración de puertos
